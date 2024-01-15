@@ -5,7 +5,7 @@
   AIO Download and features
 </p>
 
-[Forza Mods AIO](https://github.com/Yeethan69/AIO/releases/) is a free Forza Horizon 4, and now Forza Horzion 5 mod tool that aims to bring cool, new and unique features, all at NO cost!
+[Forza Mods AIO](https://github.com/Yeethan69/AIO/releases/) is a free Forza Horizon 4, and now ForzA Horzion 5 mod tool that aims to bring cool, new and unique features, all at NOcost!
 <br><br><br>
 <img align="right" src="https://i.imgur.com/aySeiqy.png" width="58.5%" margin="0 50 0 0">
 
